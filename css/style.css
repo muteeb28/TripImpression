@@ -179,7 +179,7 @@ ul{
   }
   .social{
     position: absolute;
-    bottom: 80px;
+    bottom: 110px;
     z-index: 10;
     display: flex;
     justify-content: center;
